@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+GetMeAChai is a web application built using Next.js, designed to provide a fast, scalable, and SEO-friendly experience. Users can create accounts, manage their profiles, and support creators by making payments through Razorpay. Leveraging server-side rendering (SSR) and static site generation (SSG), this app ensures quick load times and enhanced performance. With dynamic routing, integrated API routes, and built-in CSS/, GetMeAChai offers a robust foundation for creating high-performance web applications.
 ## Getting Started
 
 First, run the development server:
